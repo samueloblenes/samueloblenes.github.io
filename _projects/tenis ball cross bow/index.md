@@ -9,6 +9,5 @@ skills:
 - Prototyping and Fabrication
 main-image: /Screenshot.png
 ---
----
 ## Photos
----
+{% include image-gallery.html images="schematic.png","L1.jpg" height="400" %}
