@@ -49,20 +49,32 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 
+  - category: Computer-Aided Design (CAD) Software 
     tools:
+      - Fusion 360
+      - AutoCAD
+      - SolidWorks
 
-  - category: 
+  - category: Python Programming 
     tools:
+      - Pandas
+      - Openxl
 
-  - category: 
+  - category: Electronic Prototyping
     tools:
+      - Breadboarding for circuit testing
+      - Soldering 
+      - Experience with basic microcontrollers
    
-  - category: 
+  - category: 3D Printing
     tools:
+      - Experience with FDM 3D printers
+      - preparing models using slicer software
+      - troublshooting print issues
 
-  - category: 
+  - category: Laboratory Equipment
     tools:
+      - Eppendrof mircipipettes
 
 
 
