@@ -5,5 +5,5 @@ description: Designed and implemented a project to assess the efficiency a gener
 skills: 
 - skill 1
 - skill 2
-main-image: /project.webp 
+main-image: /Screenshot 2025-10-18 142314.png 
 ---
