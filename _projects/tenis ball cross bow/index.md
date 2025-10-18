@@ -11,4 +11,4 @@ main-image: /Screenshot.png
 ---
 ## Photos
 
-{% include image-gallery.html image1='schematic.png' image2='L1.jpg' image3='cad.png' height='400' %}
+{% include image-gallery.html image1="{schematic.png},{L1.jpg},{cad.png}" height='400' %}
