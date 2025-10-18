@@ -8,7 +8,5 @@ skills:
 - CAD Design (Fusion360)
 - Prototyping and Fabrication
 main-image: /Screenshot.png
-## Photos
-{% include image-gallery.html images="project2.jpg" height="400" %}
 ---
 
