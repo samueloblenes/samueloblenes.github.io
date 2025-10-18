@@ -10,5 +10,4 @@ skills:
 main-image: /Screenshot.png
 ---
 ## Photos
-
 {% include image-gallery.html image1="{schematic.png},{L1.jpg},{cad.png}" height='400' %}
