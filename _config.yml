@@ -15,11 +15,11 @@ title: Samuel O'Blenes's Portfolio # This is what shows up in the tab of the bro
 name: Samuel O'Blenes
 headline: Nanotechnology Engineering Student at the University of Waterloo
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Hi, I am an undergraduate student in Nanotechnology Engineering at the University of Waterloo. 
-  I chose this field because I am fascinated by the many applications of nanotechnology. As I complete 
-  my degree, I am aiming to gain the knowledge and skills necessary to reach my goal of conducting 
-  research in these areas, and I am eager to learn from hands-on co-op experiences that will allow me to 
-  contribute to innovative projects.
+  #Hi, I am an undergraduate student in Nanotechnology Engineering at the University of Waterloo. 
+#  I chose this field because I am fascinated by the many applications of nanotechnology. As I complete 
+ # my degree, I am aiming to gain the knowledge and skills necessary to reach my goal of conducting 
+ # research in these areas, and I am eager to learn from hands-on co-op experiences that will allow me to 
+ # contribute to innovative projects.
 
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
